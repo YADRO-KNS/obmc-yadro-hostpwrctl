@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+
+# build directories
+build*
+
+# VIM deoplete-clang
+.clang
+
+# gtags
+GPATH
+GRTAGS
+GTAGS
