@@ -361,7 +361,7 @@ void showUsage(const char* app)
   on     - turn the host on
   off    - turn the host off
   soft   - gracefully turn the host off
-  reset  - resetting host power
+  reboot - cycle host power
   status - show actual host power state
 )");
 }
